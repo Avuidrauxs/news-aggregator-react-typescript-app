@@ -1,0 +1,24 @@
+{
+  "name": "news-aggregator",
+  "version": "1.0.0",
+  "description": "This a React/TypeScript application that uses the NewsAPI to show news feed from around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avuidrauxs/news-aggregator-react-typescript-app.git"
+  },
+  "keywords": [
+    "newsapi",
+    "typescript",
+    "react"
+  ],
+  "author": "Audax Anchirinah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Avuidrauxs/news-aggregator-react-typescript-app/issues"
+  },
+  "homepage": "https://github.com/Avuidrauxs/news-aggregator-react-typescript-app#readme"
+}
