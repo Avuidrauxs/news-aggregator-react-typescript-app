@@ -8,6 +8,6 @@ import "materialize-css/dist/js/materialize.min.js";
 import { MainPage } from "./components/MainPage";
 
 ReactDOM.render(
-    <MainPage name="Audax" />,
+    <MainPage />,
     document.querySelector('#app')
 );

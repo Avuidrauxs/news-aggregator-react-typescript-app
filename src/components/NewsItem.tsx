@@ -31,7 +31,7 @@ export class NewsItem extends Component<NewsItemProps> {
         <div className="col s4">
         <div className="card news-card" key={`article${key}`} id={`article${key}`}>
         <div className="card-image waves-effect waves-block waves-light">
-          <img className="activator" src={article.urlToImage} alt="No image" onError={this.checkState(key, true)}/>
+          <img className="activator news-image" src={article.urlToImage} alt="No image" onError={this.checkState(key, true)}/>
         </div>
         <div className="card-content">
           <span className="card-title activator grey-text text-darken-4">{article.title}<i className="material-icons right">more_vert</i></span>
