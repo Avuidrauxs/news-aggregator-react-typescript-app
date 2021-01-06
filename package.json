@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@types/isomorphic-fetch": "0.0.35",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "codelyzer": "^5.2.2",
     "dotenv-webpack": "^1.7.0",
     "dotnet": "^1.1.4",
